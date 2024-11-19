@@ -220,17 +220,17 @@ main {
   .btn--new {
     top: 0rem;
     left: 50%;
-    margin-top: 160%;
+    margin-top: 65rem;
   }
 
   .btn--roll {
     top: 0rem;
-    margin-top: 185%;
+    margin-top: 75rem;
     margin-left: 35%;
   }
   .btn--hold {
     top: 0rem;
-    margin-top: 185%;
+    margin-top: 75rem;
     margin-left: 70%;
   }
 
